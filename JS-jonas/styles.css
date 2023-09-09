@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1{
+	font-size: 72px;
+	text-align: center;
+}
+h1,h2, h3{
+	color: #fff;
+	padding: 1rem 1rem;
+}
+body{
+	background-color: brown;
+}
+ul, li, ol{
+	color:#fff;
+	font-size: 18px;
+	padding: 0.5rem 1rem;
+}
+.container{
+	max-width: 1200px;
+	margin: 0 auto;
+}
